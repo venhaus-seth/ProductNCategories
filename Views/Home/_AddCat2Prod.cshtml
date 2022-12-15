@@ -1,0 +1,19 @@
+@model Connection
+<h3>Add Category</h3>
+<form asp-action="AddConnectionProd" method="post" asp-controller="Home">
+
+    <input type="hidden" asp-for="ProductId" value="@Model.ProductId">
+    
+    <div class="m-3">
+        <label asp-for="CategoryId"></label>
+        <select asp-for="CategoryId">
+            @foreach (Category c in ViewBag.AllCategories)
+            {
+                <option value="@c.CategoryId">@c.Name</option>
+            }
+        </select>
+    </div>
+
+
+    <button type="submit" class="m-2">Add</button>
+</form>

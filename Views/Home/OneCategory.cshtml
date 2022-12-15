@@ -1,0 +1,20 @@
+@{
+    ViewData["Title"] = "Category Details";
+}
+@model MyViewModel
+<h3 class="text-center m-4">@Model.Category.Name</h3>
+<div class="d-flex justify-content-evenly">
+    
+    <div class="text-center">
+        @await Html.PartialAsync("_AllProd4Cat", Model.Category)
+    </div>
+
+    <div class="text-center">
+        @{
+            Connection connection = new Connection();
+            connection.CategoryId = Model.Category.CategoryId;
+        }
+        @await Html.PartialAsync("_AddProd2Cat", connection)
+    </div>
+
+</div>

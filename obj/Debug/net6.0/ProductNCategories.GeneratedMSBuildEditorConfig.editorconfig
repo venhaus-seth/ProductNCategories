@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProductNCategories
+build_property.RootNamespace = ProductNCategories
+build_property.ProjectDir = c:\Users\venha\Documents\CodingDojo\CSharp\ORMs\ProductNCategories\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\venha\Documents\CodingDojo\CSharp\ORMs\ProductNCategories
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/venha/Documents/CodingDojo/CSharp/ORMs/ProductNCategories/Views/Home/Categories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXRlZ29yaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/venha/Documents/CodingDojo/CSharp/ORMs/ProductNCategories/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/venha/Documents/CodingDojo/CSharp/ORMs/ProductNCategories/Views/Home/OneCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPbmVDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/venha/Documents/CodingDojo/CSharp/ORMs/ProductNCategories/Views/Home/OneProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPbmVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/venha/Documents/CodingDojo/CSharp/ORMs/ProductNCategories/Views/Home/_AddCat2Prod.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfQWRkQ2F0MlByb2QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/venha/Documents/CodingDojo/CSharp/ORMs/ProductNCategories/Views/Home/_AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfQWRkQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/venha/Documents/CodingDojo/CSharp/ORMs/ProductNCategories/Views/Home/_AddProd2Cat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfQWRkUHJvZDJDYXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/venha/Documents/CodingDojo/CSharp/ORMs/ProductNCategories/Views/Home/_AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfQWRkUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/venha/Documents/CodingDojo/CSharp/ORMs/ProductNCategories/Views/Home/_AllCat4Prod.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfQWxsQ2F0NFByb2QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/venha/Documents/CodingDojo/CSharp/ORMs/ProductNCategories/Views/Home/_AllCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfQWxsQ2F0ZWdvcmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/venha/Documents/CodingDojo/CSharp/ORMs/ProductNCategories/Views/Home/_AllProd4Cat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfQWxsUHJvZDRDYXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/venha/Documents/CodingDojo/CSharp/ORMs/ProductNCategories/Views/Home/_AllProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfQWxsUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/venha/Documents/CodingDojo/CSharp/ORMs/ProductNCategories/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/venha/Documents/CodingDojo/CSharp/ORMs/ProductNCategories/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/venha/Documents/CodingDojo/CSharp/ORMs/ProductNCategories/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/venha/Documents/CodingDojo/CSharp/ORMs/ProductNCategories/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/venha/Documents/CodingDojo/CSharp/ORMs/ProductNCategories/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-icon6bj4cf

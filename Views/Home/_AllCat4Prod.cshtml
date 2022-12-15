@@ -1,0 +1,8 @@
+@model Product
+<div>
+    <h3>Categories</h3>
+    @foreach (Connection c in Model.Connections)
+    {
+        <p>@c.Category.Name</p>
+    }
+</div>

@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Categories";
+}
+@model MyViewModel
+<div class="d-flex justify-content-evenly">
+    <div class="text-center">
+        @await Html.PartialAsync("_AddCategory", Model.Category)
+    </div>
+
+    <div class="text-center">
+        @await Html.PartialAsync("_AllCategories", Model.AllCategories)
+    </div>
+</div>
